@@ -66,8 +66,8 @@ Watch the project output result by clicking below.
 For any inquiries, issues, or contributions, please contact:
 
 - Kalparatna Mahajan
-  - Email: kalparatna223@gmail.com
-  - GitHub: [GitHub Profile](https://github.com/Kalparatna)
+  - Email: bhushan.kapadnee@gmail.com
+  - GitHub: [GitHub Profile](https://github.com/bhushankapadneee)
 
 ## Additional Note
 - Ensure you have the required libraries installed by running the provided `pip install` command.
